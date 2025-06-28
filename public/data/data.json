@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a lightweight, interpreted scripting language used to make web pages interactive."
+  },
+  {
+    "id": 2,
+    "question": "Who developed JavaScript?",
+    "answer": "Brendan Eich developed it at Netscape in 1995."
+  },
+  {
+    "id": 3,
+    "question": "Is JavaScript the same as Java?",
+    "answer": "No, they are different languages with different use cases."
+  },
+  {
+    "id": 4,
+    "question": "Where is JavaScript used?",
+    "answer": "It's used in web development, servers (Node.js), games, and apps."
+  },
+  {
+    "id": 5,
+    "question": "How do you include JavaScript in an HTML file?",
+    "answer": "Using the <script> tag."
+  },
+  {
+    "id": 6,
+    "question": "What is the file extension of JavaScript?",
+    "answer": ".js"
+  },
+  {
+    "id": 7,
+    "question": "What is the default scripting language in browsers?",
+    "answer": "JavaScript"
+  },
+  {
+    "id": 8,
+    "question": "Can JavaScript run outside the browser?",
+    "answer": "Yes, using environments like Node.js."
+  },
+  {
+    "id": 9,
+    "question": "What are the two main types of comments in JavaScript?",
+    "answer": "Single-line (//) and multi-line (/* */)."
+  },
+  {
+    "id": 10,
+    "question": "What is the output of console.log(\"Developer\" + \" Eye\")? ",
+    "answer": "Developer Eye"
+  }
+]
